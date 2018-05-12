@@ -1,0 +1,36 @@
+_repo: Les-cahiers-du-Capitaine-Coignet--1799-1815-_35919
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coignet, Jean-Roch
+    birthdate: 1776
+    deathdate: 1860
+    gutenberg_agent_id: '42075'
+    url: http://www.gutenberg.org/2009/agents/42075
+  editor:
+    agent_name: Larchey, Lorédan
+    aliases:
+    - Larchey, L. (Lorédan)
+    - Larchey, Loredan
+    birthdate: 1831
+    deathdate: 1902
+    gutenberg_agent_id: '35600'
+    url: http://www.gutenberg.org/2009/agents/35600
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2011-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35919'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815'
+title: Les cahiers du Capitaine Coignet (1799-1815)
+url: http://www.gutenberg.org/ebooks/35919
